@@ -23,3 +23,13 @@ Part of the project ["Toxic Comment Classification"](https://github.com/drzewiec
 **Data source**: [Kaggle Competitions: Toxic Comment Classification](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/)
 
 Text of the report is in Polish, collaboration between me, Marcin Drzewiecki and Patryk Świątek.
+
+## Data Analysis with R
+
+### The impact of ‘The Queen’s Gambit’ on the game of chess
+
+Visualization about How Netflix's The Queen's Gambit Influenced the World of Chess. Graphs were generated mainly using ggplot2 library.
+
+**Working environment**: RStudio, Inkscape\
+
+Collaboration between me & Marcin Drzewiecki.
