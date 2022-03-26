@@ -30,6 +30,6 @@ Text of the report is in Polish, collaboration between me, Marcin Drzewiecki and
 
 Visualization about How Netflix's The Queen's Gambit Influenced the World of Chess. Graphs were generated mainly using ggplot2 library.
 
-**Working environment**: RStudio, Inkscape\
+**Working environment**: RStudio, Inkscape
 
 Collaboration between me & Marcin Drzewiecki.
